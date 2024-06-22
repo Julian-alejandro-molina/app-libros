@@ -1,0 +1,143 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Nova+Slim&display=swap');
+
+.container-my-book-img{
+    border-top-right-radius: 0.8rem;
+    border-top-left-radius: 0.8rem;
+    margin-top: 0.5rem;
+    margin-left: 0.5rem;
+    background-color: aliceblue;
+    width: 12rem;
+    height: 15rem;
+}
+.container-bookinfo{
+    display: flex;
+    flex-direction: column;
+    border-bottom-left-radius: 0.8rem;
+    border-bottom-right-radius: 0.8rem;
+    margin-left: 0.5rem;
+    width: 12rem;
+    height: 4rem;
+    background-color: aliceblue;
+}
+.title-cardmybook{
+    margin-top: 10px;
+    margin-left: 0.3rem;
+    font-size: 10px;
+    color: rgb(68, 68, 68);
+}
+.author-cardmybook{
+    margin-top: 0.3rem;
+    margin-left: 0.3rem;
+    font-size: 10px;
+    color: rgb(108, 109, 109);
+}
+.menu-cardmybook{
+    position: absolute;
+    margin-top: 1rem;
+    margin-left: 10.5rem;
+    cursor: pointer;
+    color: rgb(248, 124, 8);
+}
+.menu-cardmybook:hover{
+    color:rgb(68, 157, 235)
+}
+.dropdowm{
+    margin-left: 3.5rem;
+    display: flex;
+    flex-direction: column;
+    width: 7rem;
+    height: 3rem;
+    position: absolute;
+    margin-top: 1rem;
+    background-color: rgb(143, 216, 216);
+    border-radius: 5px;
+}
+.li-cardmybook{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   margin-right: 0.3rem;
+   margin-top: 0.3rem;
+   padding-left: 0.3rem;
+   color:  rgb(44, 82, 82) ;
+   cursor: pointer;
+}
+.li-cardmybook:hover{
+    background-color:  rgb(92, 165, 165);
+    color: aliceblue;
+    
+}
+
+.img-Carmybook{
+    position: absolute;
+    border-top-right-radius: 0.8rem;
+    border-top-left-radius: 0.8rem;
+    width: 12rem;
+    height: 15rem;
+    background-color: aqua;
+}
+.container-prologo {
+    background-color: antiquewhite;
+    position: absolute;
+    width: 25rem;
+    height: 30rem;
+    margin-top: 1rem;
+    border-radius: 1rem;
+
+    display: flex;
+    flex-direction: column;
+   
+    
+}
+
+.container-text-prologo {
+    background-color: rgb(255, 255, 255);
+    width: 20rem;
+    height: 26rem;
+    border: 0;
+    opacity: 1;
+    margin-left: 2rem;
+    border-radius: 0.5rem;
+    font-family: "Nova Slim", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    padding-left: 1rem;
+    padding-top: 1rem;
+    
+    
+}
+.closer-icon{
+    display: flex;
+    flex-direction: column;
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
+.closer-stiles{
+    cursor: pointer;
+    color: rgb(121, 93, 56);
+}
+.closer-stiles:hover{
+    color: aliceblue;
+    color: rgb(194, 150, 93);
+}
+.container-favorite{
+    display: flex;
+    justify-content: center;
+    width: 2rem;
+    border-radius: 0.5rem;
+    margin-left:  9.5rem;
+    cursor: pointer;
+    
+}
+.aicon-favorite{
+    color: rgb(134, 120, 120);
+    cursor: pointer;
+}
+.aicon-favorite:hover{
+    color: rgb(245, 99, 99);
+}
+.container-favorite:hover{
+  background-color: rgb(202, 202, 202);
+  transition: 1s;
+}

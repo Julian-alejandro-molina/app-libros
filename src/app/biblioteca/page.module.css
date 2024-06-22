@@ -1,0 +1,140 @@
+.contenedorbiblioteca {
+
+    margin-left: 0rem;
+    margin-top: 1.5rem;
+    max-width: 71rem;
+    height: 32rem;
+    
+
+
+
+}
+
+.containerbooklibraryendInfo {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-top: 1rem;
+    padding-left: 1.5rem;
+    overflow: auto;
+    height: 30rem;
+
+
+}
+
+.containerbooklibrary {
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.containerbookInfo {
+    background-color: blue;
+}
+
+.containerF{
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    margin-top: 0.5rem;
+    background-color: rgb(255, 255, 255);
+}
+.Containerfilter{
+    transform: rotateX('20');
+    text-align: right;
+    background-color: rgb(255, 255, 255);
+    width: 5rem;
+    color: rgb(255, 255, 255);
+}
+.Containerfilter:hover{
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+    background-color: rgb(92, 165, 165);
+    color: rgb(230, 230, 230);
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 1.3rem;
+}
+.Filter{
+    color: rgb(167, 167, 167);
+    width: 0.8rem;
+    height: 0.8rem;
+
+}
+.Filter:hover{
+    color: rgb(230, 230, 230);
+}
+.filterlis{
+    width: 4.5rem;
+    display: flex;
+    margin-left: 66.5rem;
+    justify-content: flex-end;
+    background-color: rgb(230, 230, 230);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(88, 88, 88);
+    cursor: pointer;
+
+}
+.filterlis:hover{
+    background-color: rgb(117, 170, 219) ;
+    color: aliceblue;
+    
+}
+.conternerfilterlist{
+    
+    display: flex;
+    flex-direction: column;
+    
+}
+.Textarea{
+    margin-left: 66.5rem;
+    background-color: rgb(250, 250, 250);
+    outline-style: none;
+    border: 0;
+    width: 4.5rem;
+    height: 1rem;
+}
+.buscador{
+    border-color: rgb(240, 240, 240) ;
+    border: 0;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+    background-color: rgb(247, 247, 247);
+    width: 500px;
+    height: 30px;
+    margin-top: 3rem;
+    margin-left: 2rem;
+    outline-style: none;
+    border-width:1px;
+    padding-left: 2rem;
+    color: rgb(182, 182, 182);
+   }
+   .buscador-lupa{
+       position: absolute;
+       margin-top: 3.5rem;
+       margin-left: 2.5rem;
+       color: rgb(105, 105, 105);
+   }
+   .buscador-boton{
+       margin-top: 3rem;
+       width: 7rem;
+       height: 1.9rem;
+       border: 0;
+       border-top-right-radius: 6px;
+       border-bottom-right-radius: 6px;
+       cursor: pointer;
+       color: rgb(120, 120, 121);
+       
+   
+   }
+   .buscador-boton:hover{
+       color: aliceblue;
+       background-color: rgb(102, 159, 209);
+   }

@@ -1,0 +1,162 @@
+
+.contenedortuslibros{
+  margin-left: 2rem;
+  margin-top: 3.7rem;
+  max-width: 91rem;
+  
+}
+
+
+.contenedorlink{
+    display: flex;
+    gap: 2rem;
+    background-color: 0;
+    margin-left: 0rem;
+}
+.hrlinea{
+    margin-left: 0rem;
+    margin-top: 0rem;
+}
+.lituslibros{
+  width: 5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 1.7rem;
+  text-decoration: none;
+  color: rgb(110, 110, 110);
+  margin-block: 2px
+  
+}
+.lituslibros:hover{
+  border-radius: 3rem;
+  
+  background-color: rgb(217, 233, 248);
+  color: rgb(49, 154, 245);
+  transition: 1s;
+  transform: rotateX('20');
+}
+.contenedorfiltros{
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 2rem;
+  
+}
+.autor{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  gap: 1rem;
+  width: 8rem;
+  background-color: rgb(255, 255, 255);
+  border-width: 1px;
+  border-radius: 5rem ;
+  border-color: rgb(236, 236, 236);
+  border-style: 0;
+  font-weight: bold;
+  cursor: pointer;
+  color: rgb(128, 128, 128);
+  
+  
+}
+.autor:hover{
+  color: rgb(62, 158, 241);
+  border: 0;
+  background-color: rgb(205, 231, 253);
+}
+.generos{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  gap: 1rem;
+  width: 7rem;
+  background-color: rgb(255, 255, 255);
+  border-width: 1px;
+  border-radius: 5rem ;
+  border-color: rgb(236, 236, 236);
+  border-style: 0;
+  font-weight: bold;
+  cursor: pointer;
+  color: rgb(128, 128, 128);
+}
+.generos:hover{
+  color: rgb(62, 158, 241);
+  border: 0;
+  background-color: rgb(205, 231, 253);
+}
+.titulo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  gap: 1rem;
+  height: 1.5rem;
+  width: 5rem;
+  background-color: rgb(255, 255, 255);
+  border-width: 1px;
+  border-radius: 5rem ;
+  border-color: rgb(236, 236, 236);
+  border-style: 0;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: bold;
+  cursor: pointer;
+  color: rgb(128, 128, 128);
+}
+.titulo:hover{
+  color: rgb(62, 158, 241);
+  border: 0;
+  background-color: rgb(205, 231, 253);
+}
+.containerforyourbooks{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 25rem;
+/*background-color: aqua;*/
+}
+.slider{
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  width: 68rem;
+  height: 20rem;
+  background-color: rgb(234, 235, 234);
+}
+.containernobooks{
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(255, 255, 255);
+  margin-top: 1.3rem;
+  margin-left: 20rem;
+  border-radius: 10px;
+  width: 30rem;
+  height: 17rem;
+}
+.parrafo{
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 10rem;
+font-size: 0.8rem;
+}
+.regresarabiblioteca{
+  margin-top: 1rem;
+  width: 7rem;
+  height: 2rem;
+  border-radius: 20px;
+  cursor: pointer;
+  border: 0;
+  background-color: rgb(47, 129, 253);
+  
+}
+.regresarabiblioteca:hover{
+  background-color: rgb(86, 152, 252);;
+}
+.Link {
+  text-decoration: none;
+  cursor: pointer;
+  color: aliceblue;
+}

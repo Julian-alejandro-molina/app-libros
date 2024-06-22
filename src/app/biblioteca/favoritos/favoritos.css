@@ -1,0 +1,95 @@
+.containerFavorite {
+    display: flex;
+    flex-direction: column;
+    margin-top: 2rem;
+    margin-left: 2rem;
+   
+    width: auto;
+    height: 25rem;
+}
+
+
+.contenedor-carrusel{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: rgb(180, 223, 208);
+    height: 35rem;
+    border-radius: 1.5rem;
+    
+    
+}
+.contenedor-slider-info{
+    background-color: azure;
+}
+.container-bookinfo-carrusell{
+  background-color:  rgb(205, 253, 215);;
+  box-shadow: 1px 5px 5px rgb(77, 77, 77);
+    border-bottom-left-radius: 0.8rem;
+    border-bottom-right-radius: 0.8rem;
+    margin-left: 0rem;
+    width: 12rem;
+    height: 4.5rem;
+    scroll-snap-type: x mandatory
+}
+.title-cardmybook-carrusell{
+   margin-top: 0.5rem
+   ;
+    margin-left: 0.3rem;
+    font-size: 10px;
+    color: rgb(57, 100, 45);
+}
+.author-cardmybook-carrusell{
+    margin-top: 0.8rem;
+    margin-left: 0.3rem;
+    font-size: 10px;
+    color: rgb(55, 121, 69);
+}
+.container-my-book-img-carrusell{
+    border-top-right-radius: 0.8rem;
+    border-top-left-radius: 0.8rem;
+    box-shadow: 1px 5px 5px rgb(77, 77, 77);
+    margin-left: 0;
+    background-color: rgb(85, 132, 173);
+    width: 12rem;
+    height: 15rem;
+}
+.hola{
+    color: brown;
+}
+.left-icon{
+    margin-left: 1rem;
+    height: 2.5rem;
+    width: 2.5rem;
+}
+.righ-icon{
+    height: 2.5rem;
+    width: 2.5rem;
+    margin-left: 18rem;
+}
+.section-carrusell{
+    display: flex;
+    flex-direction: column;
+    margin-left: 1rem;
+    width: 12rem;
+    height: 20rem;
+    scroll-snap-align: center;
+    
+}
+.container-author-shopping{
+   display: flex;
+   flex-direction: row;
+   
+   height: 2rem;
+   
+}
+.shopping{
+    width: 1.5rem;
+    height: 1.5rem;
+    cursor: pointer;
+    margin-top: 0.5rem;
+    margin-left: 5.5rem;
+}
+.shopping:hover{
+   color: rgb(32, 131, 73);
+}

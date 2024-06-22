@@ -1,0 +1,63 @@
+.sectionlayout {
+    margin-top: 0rem;
+    margin-left: 0rem;
+    height: 2rem;
+    background-color: rgba(255, 255, 255, 0.397);
+}
+
+.contenedorlayouinicio {
+    display: flex;
+    flex-direction: row;
+    
+    margin-left: 2rem;
+    margin-top: 4rem;
+    gap: 2rem;
+    background-color: rgb(255, 255, 255);
+}
+
+.hrLinea {
+    margin-left: 2rem;
+    margin-top: 0.7rem;
+   
+
+}
+
+
+.Listamenuinicio {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bold;
+    list-style: none;
+    text-decoration: none;
+    color: #666666;
+    
+    
+
+}
+
+.Listamenuinicio:hover {
+    background-color: rgb(217, 233, 248);
+    color: rgb(49, 154, 245);
+    transition: 1s;
+}
+.containerlogin{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0.1rem;
+    border-radius: 15px;
+    border: 0;
+    cursor: pointer;
+    text-align: start;
+    margin-left: 40rem;
+    width: 8rem;
+    text-align: start;
+    background-color: #666666;
+    
+   }
+   .loginicon{
+    margin-left: 0.5rem;
+    width: 1.5rem;
+    height: 1.5rem;
+    
+   }

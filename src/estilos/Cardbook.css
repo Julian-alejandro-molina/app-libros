@@ -1,0 +1,58 @@
+.contenedor-Card{
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    width: 13rem;
+    height: 15rem;
+    margin-left: 8px;
+    margin-bottom:20px;
+    
+}
+.container-img{
+    width: 13rem;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-color: aliceblue;
+    height: 12rem;
+    
+}
+.container-title-end-gender{
+    display: flex;
+    flex-direction: column;
+}
+.container-references{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 13rem;
+    height: 4rem;
+    border: 0.5px;
+    
+    background-color: rgb(255, 255, 255);
+}
+.title{
+ margin-top: 0.5rem;
+  font-size: 10px;
+}
+
+.gender{margin-top: 1rem;
+   font-size: 8px; 
+   
+}
+.year{
+    font-size: 13px;
+    margin-right: 0.5rem;
+    margin-top: 2.5rem;
+    
+}
+.image{
+    width: 13rem;
+    height: 12rem;
+    border-radius:8px;
+    cursor: pointer;   
+}
+image:hover{
+   
+    
+}

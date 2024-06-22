@@ -1,0 +1,60 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    display: flex;
+    flex-direction: row;
+}
+html{
+    
+    
+}
+.buscador{
+ border-color: rgb(240, 240, 240) ;
+ border: 0;
+ border-top-left-radius: 6px;
+ border-bottom-left-radius: 6px;
+ background-color: rgb(247, 247, 247);
+ width: 500px;
+ height: 30px;
+ margin-top: 3rem;
+ margin-left: 2rem;
+ outline-style: none;
+ border-width:1px;
+ padding-left: 2rem;
+ color: rgb(182, 182, 182);
+}
+.buscador-lupa{
+    position: absolute;
+    margin-top: 3.5rem;
+    margin-left: 2.5rem;
+    color: rgb(105, 105, 105);
+}
+.buscador-boton{
+    margin-top: 3rem;
+    width: 7rem;
+    height: 1.9rem;
+    border: 0;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+    cursor: pointer;
+    color: rgb(120, 120, 121);
+    
+
+}
+.buscador-boton:hover{
+    color: aliceblue;
+    background-color: rgb(102, 159, 209);
+}
+
+.contenedor-bus{
+    display: flex;
+    width: 73rem;
+    height: auto;
+    
+}
+.contenedor-section{
+    
+   }

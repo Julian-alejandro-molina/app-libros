@@ -1,0 +1,27 @@
+.contenedorelectronicos{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 1rem;
+    
+    
+    margin-left: 2rem;
+    
+    height: 27rem;
+
+}
+.conteinerinfoapi{
+    border-radius: 10px;
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 0.5rem;
+    padding-left: 1rem;
+    overflow: auto;
+    height: 21rem;
+    width: 70rem;
+}
+.container-login{
+    background-color: #666666;
+   }

@@ -1,0 +1,189 @@
+.container-login {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    border-radius: 1rem;
+    align-items: center;
+    width: 50vh;
+    height: 70vh;
+    background-color: #2a8ffc;
+    opacity: 1;
+    
+
+
+}
+.login-icon{
+    margin-top: 2rem;
+    width: 2.5rem;
+    height: 2.5rem;
+    color: #1d4472;
+}
+
+
+.text-login {
+    margin-top: 1rem;
+    color: #99bfe7;
+}
+
+.form-group {
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.form {
+    width: 300px;
+    padding: 20px;
+    border: 1px solid #f8f8f8;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+}
+.label-password{
+    color: #193c63;
+}
+.label-username{
+    color: #193c63;
+}
+.input-username{
+    border: 0;
+    height: 1.5rem;
+    outline-style: none;
+    margin-top: 0.2rem;
+}
+.input-password{
+    margin-top: 0.2rem;
+    border: 0;
+    height: 1.5rem;
+    outline-style: none;
+}
+.form-title {
+    text-align: center;
+    margin-bottom: 20px;
+    
+}
+
+.input-group {
+    margin-bottom: 20px;
+}
+
+.input-group label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.input-group input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.btn {
+    margin-top: 2rem;
+    display: block;
+    width: 100%;
+    padding: 10px;
+    color: #e4e4e4;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}
+
+.error {
+    color: red;
+    margin-top: 5px;
+}
+
+.close-icon{
+    margin-top: 1rem;
+    margin-left: 15.5rem;
+    color: #99bfe7;
+    height: 1.5rem;
+    width: 1.5rem;
+}
+.close-icon:hover{
+   cursor: pointer;
+   color: #bad4f0;
+}
+/*------------------------------------------------------------*/
+.container-registro{
+    position: absolute;
+    
+    
+    border-radius: 1rem;
+    
+    width: 50vh;
+    height: 82vh;
+    background-color: #2a8ffc;
+    
+    margin-top: 60rem;
+}
+.form{
+    width: 43.2vh;
+    height: 75.4vh;
+    display: flex;
+    flex-direction: column;
+    
+
+    outline-style: none;
+    border-radius: 5px ;
+}
+.input-form{
+    width: 70%;
+    height: 0.8rem;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    border: 0;
+    margin-top: 0.2rem;
+    margin-left: auto;
+    margin-right: auto;
+    outline-style: none;
+}
+.label{
+    margin-left: 1.9rem;
+    margin-top: 1rem;
+    color: #193c63;
+}
+.close-icon-registro{
+    margin-left: 15.5rem;
+    color: #99bfe7;
+    height: 1.5rem;
+    width: 1.5rem;
+}
+.close-icon-registro:hover{
+    cursor: pointer;
+   color: #bad4f0;
+}
+#btn-registro{
+    margin-top: 3rem;
+    display: block;
+    width: 100%;
+    padding: 10px;
+    color: #e4e4e4;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#btn-registro:hover {
+    background-color: #0056b3;
+}
+.registrar{
+    margin-top: 1rem;
+    margin-right: 6.9rem;
+    font-size: 12px;
+    color: #bad4f0;
+    cursor: pointer;
+    
+}
+.registrar:hover{
+    color: #e0ebf7;
+}

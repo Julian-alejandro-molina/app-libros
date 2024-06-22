@@ -1,0 +1,197 @@
+{
+  "book1": {
+    "id": 1,
+    "title": "El Señor de los Anillos",
+    "pages": 1200,
+    "genre": "Fantasía",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1566425108i/33.jpg",
+    "synopsis": "Una aventura épica en un mundo de fantasía llamado la Tierra Media.",
+    "year": 1954,
+    "ISBN": "978-0618640157",
+    "author": "J.R.R. Tolkien",
+    "read":"Los Anillos de Poder fueron forjados en antiguos tiempos por los herreros Elfos, y Sauron, el Señor Oscuro, forjó el Anillo Único. Pero en una ocasión se lo quitaron, y aunque lo buscó por toda la Tierra Media nunca pudo encontrarlo. Al cabo de muchos años fue a caer casualmente en manos del hobbit Bilbo Bolsón. Sauron llegó a reunir todos los Grandes Anillos, pero continuaba buscando el Anillo Único que completaría el dominio de Mordor. Bilbo desapareció durante la celebración de su centesimodecimoprimer cumpleaños, y dejó a Frodo a cargo del Anillo, y con una peligrosa misión por delante: atravesar la Tierra Media, internarse en las sombras del País Oscuro y destruir el Anillo arrojándolo en las Grietas del Destino.",
+    "otherBooks": [
+      "El Hobbit",
+      "El Silmarillion"
+    ]
+  },
+  "book2": {
+    "title": "Juego de Tronos",
+    "pages": 694,
+    "genre": "Fantasía",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1273763400i/8189620.jpg",
+    "synopsis": "En un reino donde las estaciones duran años, una batalla épica por el trono se desarrolla.",
+    "year": 1996,
+    "ISBN": "978-0553103540",
+    "author": "George R. R. Martin",
+    "read":"Canción de hielo y fuego: Libro primero La novela río más espectacular jamás escrita Tras el largo verano, el invierno se acerca a los Siete Reinos. Lord Eddard Stark, señor de Invernalia, deja sus dominios para unirse a la corte de su amigo el rey Robert Baratheon, llamado el Usurpador, hombre díscolo y otrora guerrero audaz cuyas mayores aficiones son comer, beber y engendrar bastardos. Eddard Stark ocupará el cargo de Mano del Rey e intentará desentrañar una maraña de intrigas que pondrá en peligro su vida y la de todos los suyos. En un mundo cuyas estaciones pueden durar decenios y en el que retazos de una magia inmemorial y olvidada surgen en los rincones más sombríos y maravillosos, la traición y la lealtad, la compasión y la sed de venganza, el amor y el poder hacen del juego de tronos una poderosa trampa que atrapará en sus fauces a los personajes... y al lector",
+    "otherBooks": [
+      "Choque de Reyes",
+      "Tormenta de Espadas",
+      "Festín de Cuervos"
+    ]
+  },
+  "book3": {
+    "title": "Harry Potter y la piedra filosofal",
+    "pages": 223,
+    "genre": "Fantasía",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1550337333i/15868.jpg",
+    "synopsis": "Un niño descubre que es un mago y comienza una aventura en una escuela de magia.",
+    "year": 1997,
+    "ISBN": "978-0747532699",
+    "author": "J.K. Rowling",
+    "read ":"El señor y la señora Dursley, que vivían en el número 4 de Privet Drive, estaban orgullosos de decir que eran muy normales, afortunadamente. Eran las últimas personas que se esperaría encontrar relacionadas con algo extraño o misterioso, porque no estaban para tales tonterías. El señor Dursley era el director de una empresa llamada Grunnings, que fabricaba taladros. Era un hombre corpulento y rollizo, casi sin cuello, aunque con un bigote inmenso. La señora Dursley era delgada, rubia y tenía un cuello casi el doble de largo de lo habitual, lo que le resultaba muy útil, ya que pasaba la mayor parte del tiempo estirándolo por encima de la valla de los jardines para espiar a sus vecinos. Los Dursley tenían un hijo pequeño llamado Dudley, y para ellos no había un niño mejor que él. Los Dursley tenían todo lo que querían, pero también tenían un secreto, y su mayor temor era que lo descubriesen: no habrían soportado que se supiera lo de los Potter. La señora Potter era hermana de la señora Dursley, pero no se veían desde hacía años; tanto era así que la señora Dursley fingía que no tenía hermana, porque su hermana y su marido, un completo inútil, eran lo más opuesto a los Dursley que se pudiera imaginar. Los Dursley se estremecían al pensar qué dirían los vecinos si los Potter apareciesen por la acera. Sabían que los Potter también tenían un hijo pequeño, pero nunca lo habían visto. El niño era otra buena razón para mantener alejados a los Potter: no querían que Dudley se juntara con un niño como aquél. Nuestra historia comienza cuando el señor y la señora Dursley se despertaron un martes, con un cielo cubierto de nubes grises que amenazaban tormenta. Pero nada había en aquel nublado cielo que sugiriera los acontecimientos extraños y misteriosos que poco después tendrían lugar en toda la región. El señor Dursley canturreaba mientras se ponía su corbata más sosa para ir al trabajo, y la señora Dursley parloteaba alegremente mientras instalaba al ruidoso Dudley en la silla alta. Ninguno vio la gran lechuza parda que pasaba volando por la ventana. A las ocho y media, el señor Dursley cogió su maletín, besó a la señora Dursley en la mejilla y trató de despedirse de Dudley con un beso, aunque no pudo, ya que el niño tenía un berrinche y estaba arrojando los cereales contra las paredes. «Tunante», dijo entre dientes el señor Dursley mientras salía de la casa. Se metió en su coche y se alejó del número 4. Al llegar a la esquina percibió el primer indicio de que sucedía algo raro: un gato estaba mirando un plano de la ciudad. Durante un segundo, el señor Dursley no se dio cuenta de lo que había visto, pero luego volvió la cabeza para mirar otra vez. Sí había un gato atigrado en la esquina de Privet Drive, pero no vio ningún plano. ¿En qué había estado pensando? Debía de haber sido una ilusión óptica. El señor Dursley parpadeó y contempló al gato. Éste le devolvió la mirada. Mientras el señor Dursley daba la vuelta a la esquina y subía por la calle, observó al gato por el espejo retrovisor: en aquel momento el felino estaba leyendo el rótulo que decía «Privet Drive» (no podía ser, los gatos no saben leer los rótulos ni los planos). El señor Dursley meneó la cabeza y alejó al gato de sus pensamientos. Mientras iba a la ciudad en coche no pensó más que en los pedidos de taladros que esperaba conseguir aquel día. Pero en las afueras ocurrió algo que apartó los taladros de su mente. Mientras esperaba en el habitual embotellamiento matutino, no pudo dejar de advertir una gran cantidad de gente vestida de forma extraña. Individuos con capa."
+    ,
+    "otherBooks": [
+      "Harry Potter y la cámara secreta",
+      "Harry Potter y el prisionero de Azkaban",
+      "Harry Potter y el cáliz de fuego"
+    ]
+  },
+  "book4": {
+    "title": "1984",
+    "pages": 328,
+    "genre": "Ciencia ficción",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657781256i/61439040.jpg",
+    "synopsis": "Una inquietante visión de un futuro distópico y totalitario.",
+    "year": 1949,
+    "ISBN": "978-0451524935",
+    "author": "George Orwell", 
+    "read":"Edición especial para escuelas de la emblemática novela de Orwell 1984. Incluye material didáctico a cargo de Maribel Cruzado Soria. «No creo que la sociedad que he descrito en 1984 necesariamente llegue a ser una realidad, pero sí creo que puede llegar a existir algo parecido», escribía Orwell después de publicar su novela. Corría el año 1948, y la realidad se ha encargado de convertir esa pieza -entonces de ciencia ficción- en un manifiesto de la realidad. En el año 1984 Londres es una ciudad lúgubre en la que la Policía del Pensamiento controla de forma asfixiante la vida de los ciudadanos. Winston Smith es un peón de este engranaje perverso y su cometido es reescribir la historia para adaptarla a lo que el Partido considera la versión oficial de los hechos. Hasta que decide replantearse la verdad del sistema que los gobierna y somete. La crítica ha dicho...«Aquí ya no estamos solo ante lo que habitualmente reconocemos como literatura e identificamos con la buena escritura. Aquí estamos, repito, ante energía visionaria. Y no todas las visiones se refieren al futuro, o al Más Allá.»Umberto Eco «Entre mis libros favoritos, lo leo una y otra vez.»Margaret Atwood «No es difícil pensar que Orwell, en 1984, estuviera imaginando un futuro para la generación de su hijo, un mundo del que deseaba prevenirles.»Thomas Pynchon «La libertad es una obligación tan dolorosa que siempre habrá quien prefiera rendirse. La virtud de libros como 1984 es su capacidad para recordarnos que la libertad de los seres humanos responsables no es igual a la de los animales.»Anthony Burgess «Desde El proceso de Kafka ninguna obra fantástica ha alcanzado el horror lógico de 1984.»Arthur Koestler «Un libro magnífico y profundamente interesante.»Aldous Huxley",
+    "otherBooks": [
+      "Rebelión en la granja"
+    ]
+  },
+  "book5": {
+    "title": "Apocalipsis Zombie",
+    "pages": 444,
+    "genre": "Zombies",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1422626176i/24762432.jpg",
+    "synopsis": "Un gallego se queda en casa en pleno apocalipsis zombie y acaba casi salvando el mundo",
+    "year": 2001,
+    "ISBN": "978-4444532611",
+    "author": "Manel Loreiro",
+    "read":"",
+    "otherBooks": []
+  },
+  "book6": {
+    "title": "Dune",
+    "pages": 412,
+    "genre": "Ciencia ficción",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1555447414i/44767458.jpg",
+    "synopsis": "En el inhóspito planeta desértico de Arrakis, una gran intriga política y familiar se desarrolla.",
+    "year": 1965,
+    "ISBN": "978-0441172719",
+    "author": "Frank Herbert",
+    "read":"Dune es la primera novela de la serie homónima «Dune» de Frank Herbert, una obra maestra unánimemente reconocida como la mejor saga de ciencia ficción de todos los tiempos. Arrakis: un planeta desértico donde el agua es el bien más preciado y, donde llorar a los muertos es el símbolo de máxima prodigalidad. Paul Atreides: un adolescente marcado por un destino singular, dotado de extraños poderes y, abocado a convertirse en dictador, mesías y mártir. Los Harkonnen: personificación de las intrigas que rodean el Imperio Galáctico, buscan obtener el control sobre Arrakis para disponer de la melange, preciosa especia y uno de los bienes más codiciados del universo. Los Fremen: seres libres que han convertido el inhóspito paraje de Dune en su hogar, y que se sienten orgullosos de su pasado y temerosos de su futuro.",
+    "otherBooks": [
+      "El mesías de Dune",
+      "Hijos de Dune"
+    ]
+  },
+  "book7": {
+    "title": "La Guía del Autoestopista Galáctico",
+    "pages": 216,
+    "genre": "Ciencia ficción",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1653311117i/6691227.jpg",
+    "synopsis": "Un viaje absurdo y cómico por el espacio, con toallas.",
+    "year": 1979,
+    "ISBN": "978-0345391803",
+    "author": "Douglas Adams",
+    "read":"Un jueves a la hora de comer, la Tierra es demolida para poder construir una nueva autopista hiperespacial. Arthur Dent, un tipo que esa misma mañana ha visto cómo echaban abajo su propia casa, considera que eso supera lo que una persona puede soportar. Arthur huirá de la Tierra junto a un amigo suyo, Ford Prefect, que resultará ser un extraterrestre emparentado con Zaphod Beeblebrox, un pirata esquizoide de dos cabezas, en cuya nave conocerá al resto de personajes que lo acompañarán: un androide paranoide y una terrícola que, como él, ha logrado escapar. Douglas Adams fue el creador de toda una serie de manifestaciones de la Guía del autoestopista galáctico: primero fue novela radiofónica, luego se convirtió en libro, series televisivas y teatrales, un juego de ordenador, cómics y toallas de baño. La película ascendió hasta las cumbres de la producción cinematográfica. Esta edición cuenta con entrevistas y materiales a partir del rodaje de la misma.",
+    "otherBooks": [
+      "El restaurante del fin del mundo",
+      "La vida, el universo y todo lo demás"
+    ]
+  },
+  "book8": {
+    "title": "Neuromante",
+    "pages": 271,
+    "genre": "Ciencia ficción",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1554437249i/6088007.jpg",
+    "synopsis": "Una visión profética de la ciber-realidad y la inteligencia artificial.",
+    "year": 1984,
+    "ISBN": "978-0441569595",
+    "author": "William Gibson",
+    "read":"Un futuro invadido por microprocesadores, en el que la información es la materia prima. Vaqueros como Henry Dorrett Case se ganan la vida hurtando información, traspasando defensas electrónicas, bloques tangibles y luminosos, como rascacielos geométricos. En este espeluznante y sombrío futuro la mayor parte del este de Norteamérica es una única y gigantesca ciudad, casi toda Europa un vertedero atómico y Japón una jungla de neón, corruptora y brillante, donde una persona es la suma de sus vicios.",
+    "otherBooks": [
+      "Conde Cero",
+      "Mona Lisa Acelerada"
+    ]
+  },
+  "book9": {
+    "title": "Fahrenheit 451",
+    "pages": 249,
+    "genre": "Ciencia ficción",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1383718290i/13079982.jpg",
+    "synopsis": "Una sociedad futura donde los libros están prohibidos y 'bomberos' queman cualquier libro que encuentren.",
+    "year": 1953,
+    "ISBN": "978-1451673319",
+    "author": "Ray Bradbury",
+    "read":"Fahrenheit 451: la temperatura a la que el papel se enciende y arde.Guy Montag es un bombero y el trabajo de un bombero es quemar libros, que están prohibidos porque son causa de discordia y sufrimiento. El Sabueso Mecánico del Departamento de Incendios, armado con una letal inyección hipodérmica, escoltado por helicópteros, está preparado para rastrear a los disidentes que aún conservan y leen libros. Como 1984, de George Orwell, como Un mundo feliz, de Aldous Huxley, Fahrenheit 451 describe una civilización occidental esclavizada por los medios, los tranquilizantes y el conformismo. La visión de Bradbury es asombrosamente profética: pantallas de televisión que ocupan paredes y exhiben folletines interactivos; avenidas donde los coches corren a 150 kilómetros por hora persiguiendo a peatones; una población que no escucha otra cosa que una insípida corriente de música y noticias transmitidas por unos diminutos auriculares insertados en las orejas.",
+    "otherBooks": [
+      "Crónicas marcianas",
+      "El hombre ilustrado"
+    ]
+  },
+  "book10": {
+    "title": "El resplandor",
+    "pages": 688,
+    "genre": "Terror",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1641398308i/60038757.jpg",
+    "synopsis": "Una familia se muda a un hotel aislado para el invierno donde una presencia siniestra influye en el padre hacia la violencia.",
+    "year": 1977,
+    "ISBN": "978-0307743657",
+    "author": "Stephen King",
+    "read":"REDRUM. Esa era la palabra que Danny había visto. Y aunque no sabía leer, entendió que era un mensaje de horror el que se había reflejado en aquel espejo. Danny tenía cinco años, y a los cinco años pocos niños saben leer, pocos niños saben que los espejos invierten las imágenes y pocos niños, casi ninguno, saben diferenciar la realidad de sus fantasías. Aunque, claro, Danny tenía pruebas de que sus fantasías, aquellas fantasías relacionadas con el resplandor, acababan cumpliéndose. REDRUM-MURDER. Y el palo ensangrentado.Pero su padre necesitaba aquel trabajo. Danny sabía que en la mente de su madre cada vez ocupaba más espacio la idea de divorcio y que su padre pensaba una y otra vez en algo malo, en algo malo y en suicidio. Sí, necesitaba un trabajo, aunque fuera aquél. ¿Aunque fuera aquél? También podía ser que esa fuera la excepción, que no se cumpliera lo que Danny había soñado despierto. Total, era cuidar de un hotel de lujo, de ciento diez habitaciones, que quedaba aislado por la nieve durante al menos seis meses. Así que hasta el deshielo iban a estar los tres solos, ¿solos?, en el inmenso edificio. Y apenas llegaron, lo reconoció. Ya lo había visto. Aquel era el edificio. Aquella era la habitación. Aquel era el espejo. REDRUM-MURDER.",
+    "otherBooks": [
+      "Carrie",
+      "It"
+    ]
+  },
+  "book11": {
+    "title": "Drácula",
+    "pages": 418,
+    "genre": "Terror",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387151694i/17245.jpg",
+    "synopsis": "La historia del infame conde Drácula y su intento de mudarse de Transilvania a Inglaterra.",
+    "year": 1897,
+    "ISBN": "978-0486411095",
+    "author": "Bram Stoker",
+    "read":"Los mejores libros jamás escritos Mucho más que una novela gótica, Drácula es un ejercicio literario excepcional. Jonathan Harker viaja a Transilvania para cerrar un negocio inmobiliario con un misterioso conde que acaba de comprar varias propiedades en Londres. Después de un viaje plagado de ominosas señales, Harker es recogido en el paso de Borgo por un siniestro carruaje que lo llevará, acunado por el canto de los lobos, a un castillo en ruinas. Tal es el inquietante principio de una novela magistral que alumbró uno de los mitos más populares y poderosos de todos los tiempos: Drácula. La presente edición incluye una detallada cronología y el prefacio del reputado catedrático y crítico Christopher Frayling, donde se analiza la figura de Stoker y las circunstancias que propiciaron la creación de Drácula. Asimismo, la perspicaz introducción a cargo del especialista Maurice Hindle reflexiona sobre los aspectos más polémicos en torno al origen del prototipo vampírico. «No había nadie por allí, excepto un hombre alto y flaco, de nariz ganchuda y barba en punta y entrecana. Tenía una mirada dura y fría y unos ojos de color rojo.»",
+    "otherBooks": [
+      "La joya de las siete estrellas",
+      "La madriguera del gusano blanco"
+    ]
+  },
+  "book12": {
+    "title": "Frankenstein",
+    "pages": 280,
+    "genre": "Terror",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1669159060i/63631742.jpg",
+    "synopsis": "Un científico obsesionado crea una criatura viva a partir de partes de cuerpos robadas, con consecuencias desastrosas.",
+    "year": 1818,
+    "ISBN": "978-0486282114",
+    "author": "Mary Shelley",
+    "read":"La historia ha hecho justicia con este personaje relegado durante mucho tiempo a figurar en las enciclopedias como la segunda mujer del poeta Percy Bysshe Shelley. Hija de Godwin, un afanado editor, nació en Inglaterra en 1797 y murió en 1851. A su labor no solo se le debe la sistematización de la obra poética se su marido, sino estudios sobre Petrarca, Bocaccio, Maquiavelo, y una abultada obra en forma de novelas cortas, con las que se ganaba la vida tras la muerte de Shelley en un naufragio. de infancia sesgraciada, Mary conoció a Shelley a través de Godwin y se fugó con él, desafiando la moral de su época, poniendo rumbo a Suiza,donde se encontraron con Byron. Allí en la casa del afamado poeta británico, emprendieron una aventura: cada uno de los reunidos aquella noche (Byron, Shelley, Polidori y la propia Mary) debía escribir una historia de terror en una noche de tormenta, a las orillas del lago.El resultado se esta aventura fue Frankenstein, el monstruo más triste se la literatura, la criatura de la que su creador abominaba, incapaz de hallar su sitio en la naturaleza y con inteligencia suficiente para ser consciente de su desgraciado destino. Adaptado a la gran pantalla con desigual fortuna, Frankenstein es el monstruo más humano de toda la literatura de terror.",
+    "otherBooks": [
+      "El último hombre",
+      "Valperga"
+    ]
+  },
+  "book13": {
+    "title": "La llamada de Cthulhu",
+    "pages": 43,
+    "genre": "Terror",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1485924654i/34094154.jpg",
+    "synopsis": "La historia de un monstruo ancestral que amenaza con revivir y dominar el mundo.",
+    "year": 1928,
+    "ISBN": "978-1542461690",
+    "author": "H.P. Lovecraft",
+    "read":"En los archivos del venerable profesor Angell, su sobrino, Francis Thurston, descubrió unos documentos que revelaban una serie de pesquisas iniciadas con el objetivo de explicar algunos fenómenos estremecedores, entre los que se cuentan una colección de sueños inquietantes, diversos brotes de locura o una tablilla de arcilla con una monstruosa figura esculpida. Lo que de ellos se podía inferir resultaba sobrecogedor. Sin duda el profesor sabía demasiado, y es que a veces solo cabe agradecer que nuestro limitado entendimiento nos impida acceder a algunas verdades ominosas.Cthulhu es una criatura primigenia dentro de las entidades cósmicas, creada por H. P. Lovecraft. La llamada de Cthulhu inauguró el famoso ciclo de horror cósmico Los mitos de Cthulhu, que llevó a otro nivel el género de la literatura de terror, creando un imaginario más allá de nuestra comprensión. Los mundos de ficción que concibió el autor han ejercido una influencia enorme en la cultura popular desde los años 70 hasta nuestros días.",
+    "otherBooks": [
+      "El horror de Dunwich",
+      "En las montañas de la locura"
+    ]
+  }
+}
